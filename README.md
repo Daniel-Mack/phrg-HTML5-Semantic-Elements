@@ -172,4 +172,7 @@ With all new additions to HTML and JavaScript, legacy support for older browsers
 - [Dive into HTML5 - Semantic Elements](http://diveintohtml5.info/semantics.html#new-elements)
 - [MDN - HTML - Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-HTML5-Semantic-Elements/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-HTML5-Semantic-Elements/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG HTML5 Semantic Elements</p>
